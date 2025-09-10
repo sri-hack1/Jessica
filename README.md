@@ -5,7 +5,7 @@ Isabella is an AI-powered chatbot using Large Language Models (LLMs) for natural
 ---
 
 ## 📁 Folder Structure
-
+```bash
 Isabella/
 │
 ├── requirements.txt
@@ -19,7 +19,7 @@ Isabella/
 └── SpeechRecog/
 ├── speech_to_text.py
 └── text_to_speech.py
-
+```
 
 ---
 
